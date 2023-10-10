@@ -1,5 +1,7 @@
 # readability-score
 
+![](https://github.com/rat-extensions/readability-score/blob/main/Peek%202023-10-10%2009-00.gif)
+
 
 Description: A Python tool that extracts the main text content of a web document and analyzes its readability.
 Input data: URL or/ Search Query.
